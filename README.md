@@ -23,4 +23,7 @@ Every image is a 256x256x3 Numpy array with dtype `uint8`
 ```
 
 
+## Compile
+
+Go to the /monet/monet folder and run ```tfds build```
 
