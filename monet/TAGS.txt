@@ -1,0 +1,3 @@
+content.data-type.image # Contains image data.
+ml.task.image-generation # Relates to Image Generation, a machine learning task.
+ml.task.image-to-image-translation # Relates to Image To Image Translation, a machine learning task.
